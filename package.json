@@ -9,7 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@langchain/community": "^0.3.24",
+    "@langchain/core": "^0.3.30",
+    "@langchain/langgraph": "^0.2.40",
+    "@langchain/openai": "^0.3.17",
     "@supabase/supabase-js": "^2.47.15",
+    "langchain": "^0.3.11",
     "next": "15.1.4",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
